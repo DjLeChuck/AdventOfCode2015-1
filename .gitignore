@@ -1,0 +1,13 @@
+#vs-mono
+bin/
+obj/
+Properties/
+*.csproj
+*.sln
+*.userprefs
+
+#custom
+!.gitkeep
+Data/
+Program.cs
+
